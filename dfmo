@@ -1,0 +1,23 @@
+[33mcommit d3ddcb0691f2924e85c9b3ab3c654db26fd6ada6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: elisiosantos <elisio13cantil@gmail.com>
+Date:   Sat Nov 25 16:24:58 2023 -0300
+
+    criação - primeira view do projeto
+
+[33mcommit b75cfa193e719eadc25fa7c6fdd2eaee48a8da48[m
+Author: elisiosantos <elisio13cantil@gmail.com>
+Date:   Sat Nov 25 16:16:54 2023 -0300
+
+    instalação do handlebars e do nodemon
+
+[33mcommit db9e3ab44c70411c20f926df23065732fe85faf2[m
+Author: elisiosantos <elisio13cantil@gmail.com>
+Date:   Sat Nov 25 16:07:03 2023 -0300
+
+    Primeira execução do servidor
+
+[33mcommit e3218ed12cccabc5e5602bdd0ea889d83108623b[m
+Author: elisiosantos <elisio13cantil@gmail.com>
+Date:   Sat Nov 25 16:02:23 2023 -0300
+
+    primeiro commit
